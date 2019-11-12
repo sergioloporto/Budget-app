@@ -11,4 +11,5 @@ For learning purposes I changed (and keep changing as long as I keep working in 
 Here some examples of changes I applied to the author's code:
 - I translated many parts of the app into ES6+
 - Instead of using the js JavaScript String `replace()` method I used template ${strings} (less code and easier to read)
+- Simplified `forEach` with minimal needed parameters
 
