@@ -9,6 +9,7 @@ App coded following and understanding the tutorial on https://www.udemy.com/cour
 For learning purposes I changed (and keep changing as long as I keep working in it) part of the code to my will.
 
 Here some examples of changes I applied to the author's code:
+- Divided SASS into partials
 - I translated many parts of the app into ES6+
 - Instead of using the js JavaScript String `replace()` method I used template ${strings} (less code and easier to read)
 - Simplified `forEach` with minimal needed parameters
