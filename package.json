@@ -33,7 +33,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-wait": "0.0.2",
-    "node-notifier": "^5.4.0",
+    "node-notifier": "^8.0.1",
     "webpack": "^4.37.0",
     "webpack-cli": "^3.3.6",
     "webpack-dev-middleware": "^3.7.2",
